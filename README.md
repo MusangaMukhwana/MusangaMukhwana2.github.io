@@ -18,5 +18,11 @@
        b. events
        c. menu
   They should all be a hyperlink to '#' (does not redirect externally)
+  
+  Made Using:
+  Bootstrap
+  Javascript
+  CSS
+  HTML
 
 # MusangaMukhwana2.github.io
